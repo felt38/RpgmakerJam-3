@@ -1,5 +1,6 @@
 [
 null,
+<<<<<<< HEAD
 {"id":1,"expanded":true,"name":"Ecran Titre","order":1,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":2,"expanded":true,"name":"MAP002","order":2,"parentId":0,"scrollX":0,"scrollY":0},
 {"id":3,"expanded":true,"name":"MAP003","order":3,"parentId":0,"scrollX":0,"scrollY":0},
@@ -15,4 +16,7 @@ null,
 {"id":13,"expanded":true,"name":"MAP013","order":13,"parentId":0,"scrollX":0,"scrollY":0},
 {"id":14,"expanded":true,"name":"MAP014","order":14,"parentId":0,"scrollX":0,"scrollY":0},
 {"id":15,"expanded":false,"name":"MAP015","order":15,"parentId":0,"scrollX":699,"scrollY":426}
+=======
+{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":411.5,"scrollY":334}
+>>>>>>> parent of 196e8ef... ajout Map
 ]
