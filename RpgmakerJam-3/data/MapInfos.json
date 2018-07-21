@@ -1,10 +1,10 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Ecran Titre","order":1,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":2,"expanded":true,"name":"Conjonctivite","order":2,"parentId":0,"scrollX":699,"scrollY":426},
+{"id":2,"expanded":true,"name":"Conjonctivite","order":2,"parentId":0,"scrollX":1398,"scrollY":977},
 {"id":3,"expanded":true,"name":"Tuberculose","order":3,"parentId":0,"scrollX":699,"scrollY":426},
 {"id":4,"expanded":false,"name":"Lichen","order":4,"parentId":0,"scrollX":699,"scrollY":426},
-{"id":5,"expanded":false,"name":"Tuto demmarage","order":5,"parentId":0,"scrollX":819,"scrollY":455.5},
+{"id":5,"expanded":false,"name":"Tuto demmarage","order":5,"parentId":0,"scrollX":1398,"scrollY":977},
 {"id":6,"expanded":false,"name":"MAP006","order":6,"parentId":0,"scrollX":699,"scrollY":426},
 {"id":7,"expanded":false,"name":"MAP007","order":7,"parentId":0,"scrollX":699,"scrollY":426},
 {"id":8,"expanded":true,"name":"MAP008","order":8,"parentId":0,"scrollX":699,"scrollY":426},
