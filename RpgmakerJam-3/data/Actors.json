@@ -1,9 +1,9 @@
 [
 null,
-{"id":1,"battlerName":"Personnage_01","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Personnage_0","traits":[],"initialLevel":1,"maxLevel":99,"name":"Globule blanc 1","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Personnage_02","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Personnage_2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Globule blanc 2","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"Personnage_03","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Personnage_3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Globule blanc 3","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"Personnage_04","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Personnage_4","traits":[],"initialLevel":1,"maxLevel":99,"name":"Globule blanc 4","nickname":"","note":"","profile":""},
-{"id":5,"battlerName":"Personnage_05","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Personnage_5","traits":[],"initialLevel":1,"maxLevel":99,"name":"Globule blanc 5","nickname":"","note":"","profile":""},
-{"id":6,"battlerName":"Personnage_png_Joane","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Personnage_Pnj_Joane","traits":[],"initialLevel":1,"maxLevel":99,"name":"Johan","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Personnage_01","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Personnage_0","traits":[],"initialLevel":1,"maxLevel":99,"name":" blanc 1","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Personnage_02","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Personnage_2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Alexender","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Personnage_03","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Personnage_3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Juan de la Merta","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Personnage_04","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Personnage_4","traits":[],"initialLevel":1,"maxLevel":99,"name":"Atsune","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Personnage_05","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Personnage_5","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jeanks","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"Personnage_png_Joane","characterIndex":0,"characterName":"","classId":1,"equips":[5,0,0,0,0],"faceIndex":0,"faceName":"Personnage_Pnj_Joane","traits":[],"initialLevel":1,"maxLevel":99,"name":"Johan","nickname":"","note":"","profile":""}
 ]
